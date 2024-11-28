@@ -1,0 +1,11 @@
+
+body {
+  background-color: red;
+}
+
+.general {
+  width: 1024px;
+  height: 768px;
+  margin: 0 auto;
+  border: solid 3px white;
+}
